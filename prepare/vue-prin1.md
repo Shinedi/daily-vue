@@ -4,7 +4,7 @@ date: 2020-10-19 20:15:39
 tags:
 ---
 
-####1、 了解flow
+#### 1、 了解flow
 静态语法校验
 * 安装： npm i -g flow-bin
 * 生成.flowconfig文件： flow init
